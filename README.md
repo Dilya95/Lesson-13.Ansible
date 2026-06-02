@@ -11,9 +11,14 @@
 
 
 ## Структура
-Vagrantfile - файл Vagrant. <br>
-nginx.yml - playbook Ansible. <br>
-README.md - описание ДЗ и ход выполнения.
+├── ansible.cfg
+├── nginx.yml
+├── staging
+│   └── hosts
+├── templates
+│   └── nginx.conf.j2
+└── Vagrantfile
+
 
 
 ## Выполнение
