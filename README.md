@@ -11,13 +11,13 @@
 
 
 ## Структура
-├── ansible.cfg
-├── nginx.yml
-├── staging
-│   └── hosts
-├── templates
-│   └── nginx.conf.j2
-└── Vagrantfile
+├── ansible.cfg<br>
+├── nginx.yml<br>
+├── staging<br>
+│   └── hosts<br>
+├── templates<br>
+│   └── nginx.conf.j2<br>
+└── Vagrantfile<br>
 
 
 
